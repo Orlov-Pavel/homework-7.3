@@ -1,10 +1,10 @@
 # Домашнее задание к занятию "7.3. Основы и принцип работы Терраформ"
-1. Terraform backend создан в s3 хранилище в yandex cloud:
+1. Terraform backend создан в s3 хранилище в yandex cloud:  
    ![terraform backend](./pictures/terraform%20backend.PNG)
-2. Постарался адаптировать задание под yandex cloud.
-   Вывод команды ```terraform workspace list```:
-   ![terraform workspace list](./pictures/terraform%20workspace%20list.PNG)
-   Вывод команды ```terraform plan``` для воркспейса ```prod```:
+2. Постарался адаптировать задание под yandex cloud.  
+   Вывод команды ```terraform workspace list```:  
+   ![terraform workspace list](./pictures/terraform%20workspace%20list.PNG)  
+   Вывод команды ```terraform plan``` для воркспейса ```prod```:  
 ```
 root@ubuntu:~/netology/7.3/cloud-terraform# terraform plan
 
